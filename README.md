@@ -177,3 +177,9 @@ Connect the T joiner attached to the water pump to the vinyl tubing that was pas
 ***Figure 17***
 
 
+
+You should have something like this: you should not be able to see the vinyl tubing. 
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/complete_indoor.png?raw=true)
+***Figure 18***
+
