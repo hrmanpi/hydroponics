@@ -246,3 +246,80 @@ Sample root images of hairy and not hairy roots:
 > Source: Erdem Erdemir and Timothy Darrah
 
 
+
+### Links to items used in this project.
+You might find items on this list that were not used in this project as I experimented with different items for different steps. Note that I am not affiliated with any company listed below and the following links are provided for reference only. Please use any company that offers better options and pricing.     
+
+
+[T-Type Hose Joiner Barbed Flexible Pipe](https://www.amazon.com/uxcell-3-Piece-T-Type-Flexible-0-6-Inch/dp/B00KZJYXWW/ref=sr_1_3?ie=UTF8&qid=1545785705&sr=8-3&keywords=5%2F8+Plastic+T+Piece+Connector+Pipe)
+
+
+[1-5/8-in x 1-ft Pvc Clear Vinyl Tubing](https://www.lowes.com/pd/EASTMAN-1-5-8-in-x-1-ft-Pvc-Clear-Vinyl-Tubing/1000180531)
+
+[White PVC Vinyl 4 x 4 X 72](https://www.lowes.com/pd/Freedom-Common-4-in-x-4-in-x-6-ft-Actual-4-in-x-4-in-x-6-ft-Pre-Assembled-White-Vinyl-Fence-Blank-Post/3159989)
+
+
+[WEATHERABLES Durable White PVC Vinyl External Pyramid Post Cap for A True 4 Inch x 4 Inch Post | Single Pack | AWCP-EXT-4](https://www.amazon.com/WEATHERABLES-Durable-External-Pyramid-AWCP-EXT-4/dp/B00A7AW28G/ref=sr_1_19?ie=UTF8&qid=1545605462&sr=8-19&keywords=pvc+post+4x4+white)
+
+
+[Rubbermaid Roughneck 95-Quart Clear General Tote with Locking Latch Lid
+36.4 x 15.8 x 13.9 in](https://www.lowes.com/pd/Rubbermaid-Roughneck-95-Quart-Clear-General-Tote-with-Locking-Latch-Lid/3273981)
+
+
+[Century 24 Hour Plug-in Mechanical Timer Grounded](https://www.amazon.com/gp/product/B00MVFF59S/ref=oh_aui_detailpage_o07_s01?ie=UTF8&psc=1)
+
+
+[VIVOSUN Air Pump 950 GPH 32W 60L/min 6 Outlet Commercial Air Pump for Aquarium and Hydroponic Systems](https://www.amazon.com/gp/product/B06XDKRYC6/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+
+
+[Pawfly 1.6" Air Stone Bubble for Aquarium Fish Tank Hydroponics Pump Ceramic Airstones Diffuser](https://www.amazon.com/gp/product/B01LYLNQWV/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+
+
+[GrowLED Thinklux LED T8 - LED Grow Light Tube for Garden, Hydroponic, and Greenhouse - 18 Watts - Red/Blue Spectrum, Bypass Ballast, Direct Wire, UL Listed， Pack of 4](https://www.amazon.com/gp/product/B01J0DE4ZE/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+
+[1600GPH Adjustable Submersible Water Pump Aquarium Fish Tank Fountain Hydroponic by SUN](https://www.amazon.com/gp/product/B01LRSTJ3M/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
+
+
+[Titan Controls Mechanical Timer, Single Outlet, 120V - Apollo 6](https://www.amazon.com/gp/product/B007KID0YI/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+
+
+[NP2AW: 2 Inch White Slotted Mesh Net Pot for Hydroponics/Aquaponics/Orchids - 50 Pack](https://www.amazon.com/gp/product/B00J1A495W/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+
+[3 Lb Hydrokorrels Hydroponic Expanded Clay Grow Rocks](https://www.amazon.com/gp/product/B00BRBTGGA/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)
+
+
+[General Hydroponics FloraGro, 1 Gallon](https://www.amazon.com/gp/product/B0049XISGM/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+
+[Lettuce Greens and Herbs Hydroponic Nutrients - Complete Nutrition](https://www.amazon.com/gp/product/B00MSW5LQQ/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1)
+
+[Iron for for Organic Aquaponics - 10% (makes 400 gallons) (32oz](https://www.amazon.com/gp/product/B00XV1J9GG/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1) 
+
+[Grodan A-OK 1"x1" Sheet of 200 Rockwool / Stonewool Starter Cubes for Cuttings, Cloning, Plant Propagation, and Seed Starting](https://www.amazon.com/gp/product/B0087SJ3U0/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+
+
+
+
+
+[pH Meter](https://www.amazon.com/gp/product/B06XTQF124/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+
+[TDS, EC & Temperature Mete](https://www.amazon.com/gp/product/B01J00NC7I/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+
+
+
+[Raspberry Pi  - if you worked with RPI before and have all the accessories needed](https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07BDR5PDW/ref=sr_1_4?s=pc&ie=UTF8&qid=1546614976&sr=1-4&keywords=raspberry+pi)
+
+[CanaKit Raspberry Pi 3 - better option if you never owned a raspberry pi since it includes most parts you need](https://www.amazon.com/CanaKit-Raspberry-Premium-Clear-Supply/dp/B07BC7BMHY/ref=sr_1_6?s=pc&ie=UTF8&qid=1546614976&sr=1-6&keywords=raspberry+pi)
+
+[Raspberry Pi, T-Type Expansion Board](https://www.amazon.com/Kuman-Expansion-Raspberry-Solderless-Breadboard/dp/B074DSMPYD/ref=sr_1_14?ie=UTF8&qid=1546615271&sr=8-14&keywords=raspberry+pi+breadboard)
+
+
+[Microchip MCP3008-I/P 10-Bit ADC with SPI (Pack of 1](https://www.amazon.com/Microchip-MCP3008-I-10-Bit-ADC-Pack/dp/B01C3PPWSY/ref=sr_1_10?s=industrial&ie=UTF8&qid=1545232304&sr=1-10&keywords=Microchip+MCP3008-I)
+
+[DHT11 - Digital Temperature Humidity Sensor](https://www.amazon.com/NOYITO-Digital-Temperature-Humidity-Arduino/dp/B07HX14M4K/ref=sr_1_3?s=electronics&ie=UTF8&qid=1546534681&sr=1-3&keywords=DHT-11)
+
+[DS18B20 - Water Thermometer](https://www.amazon.com/DS18B20-Digital-Temperature-Thermal-Sensor/dp/B00FH7UHA4/ref=sr_1_2?s=industrial&ie=UTF8&qid=1545169586&sr=1-2&keywords=DS18B20)
+
+
+[Photoresistor](https://www.amazon.com/Adafruit-Photo-cell-photoresistor-ADA161/dp/B00XW2MI4E/ref=sr_1_10?s=electronics&ie=UTF8&qid=1546535536&sr=1-10&keywords=photoresistor)
+
+
