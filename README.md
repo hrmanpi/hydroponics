@@ -221,3 +221,28 @@ Since the DS18B20 sensor needs to be in the reservoir water, I added extra wire 
 > Cayenne - mydevices.com
 > Drag and drop ioT
 
+#### Deep learning:
+
+In addition, raspberry pi camera and deep learning (keras/tensorflow) will be used to monitor the plants and its root health. 
+
+Analyzing plant diseases, nutrient deficiencies and root health by analyzing the images taken by raspberry pi using deep learning.
+
+Sample nutrient deficiency images
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/nutrient-deficiencies.jpg?raw=true)
+***Figure 21***
+source: Epic Gardening
+
+
+
+
+Sample root images of hairy and not hairy roots:
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/hairy_root.jpg?raw=true)
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/non_hairy_root.jpg?raw=true)
+***Figure 22***
+> Source: Erdem Erdemir and Timothy Darrah
+
+
