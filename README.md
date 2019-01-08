@@ -27,3 +27,152 @@ Note: For this size pipe, all four sides should not be used as the roots will be
 
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/tower_marking.png?raw=true)
 ***Figure 3*** 
+
+#### Step 2: cutting
+
+use a cutting tool to cut only the part that was marked using a black marker. Do not cut the part of the line that was marked using a red marker. Otherwise the hole will be too large for 2 inches net-pots.  
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/Drill_netcup.png?raw=true)
+***Figure 4*** 
+
+
+After cutting, we need to shape the holes. For this part we need a tool that is close to the size of the net-pot top.  I used an empty spray can that was a perfect fit.
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/bottle_netcup_next.png?raw=true)
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/bottle_netcup_top.png?raw=true)
+***Figure 5*** 
+
+
+#### Step 3: heating
+
+In order to prepare the cut area for shaping, we need to heat the area with a swiping motion.
+Since I did not have a heat gun, I used a propane torch. It would be harder to use a propane torch since you need to constantly monitor the area to make sure the PVC pipe heats up evenly without burning the pipe. If the pipe does get a little burned and turns yellow or even brown, you can later cover it up with white PVC vinyl cement. This cement can also help fill up the hole from each side if you have cut the hole larger than intended. 
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/blowtorch.png?raw=true)
+***Figure 6*** 
+
+
+#### Step 4: creating holes
+
+While the cut area is still hot, insert the can. Once you are happy with the shape, leave the can for a few minutes for the hole to keep the shape. If you do not want to wait for the area to cool down naturally, you can use a wet towel to cool down the area.
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/blowtorch_can.png?raw=true)
+***Figure 7***
+
+I made two identical posts. Each post will have 11 holes (6 on one side and 5 on the other side)
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/tower_with_marking.png?raw=true)
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/tower_with_netcups.png?raw=true)
+***Figure 8*** 
+
+
+#### Step 5: preparing the water-pump
+
+In order to be able to use one water pump for both towers (pvc posts), I used a T joiner to be able to split the stream as seen in figure 9.
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/waterpump_connections.png?raw=true)
+***Figure 9***
+
+
+
+#### Step 6: drilling hole for T joiner
+
+I used a ½ inch drill bit (larger or smaller based on your T hose joiner diameter) to drill a hole as seen in figure 10.
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/half_inch_drill.png?raw=true)
+***Figure 10***
+
+
+
+
+#### Step 7: drilling holes for rain shower
+
+Drill small holes to create the rain shower effect. Start with only a few holes and drill more if needed. These holes can be different sizes as long as they are evenly distributed. I made 4 larger holes around the center to direct more flow towards the middle to prevent splashing out of the net-pots. See Figure 11.
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/rain_shower_wholes.png?raw=true)
+***Figure 11***
+
+#### Step 8: installing T joiner 
+
+Insert T joiner to the hole that was drilled in step 6. It should fit tight.
+
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/insert_connector.png?raw=true)
+***Figure 12***
+
+
+
+
+#### Step 9: installing tube
+
+Insert the vinyl tube to the T joiner.
+
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/vinal_tube_to_Tjoiner.png?raw=true)
+***Figure 13***
+
+
+
+
+#### Step 10: install rain-shower part 
+
+Pass the vinyl tubing attached to the rain shower cap through the tower
+
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/top_to_tower.png?raw=true)
+***Figure 14***
+
+
+
+
+#### Step 7: Step 11: preparing water reservoir
+
+Hang the towers from above. I used a container with a lid as the water reservoir. I painted the container with an initial coat of brown (any dark color would work) to prevent light from entering the reservoir and then a second coat with white to prevent overheating when used outdoors. You need to make 2 holes in the lid for the PVC pipes to pass through to the reservoir (see Figure 17). Place the water reservoir under the towers and place the water pump.  
+.
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/ready_to_attach_connectors.png?raw=true)
+***Figure 15***
+
+
+
+
+#### Step 7: Step 12: connecting water pump to tower tubes
+
+Connect the T joiner attached to the water pump to the vinyl tubing that was passed through the towers.
+
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/connection_to_water_pump.png?raw=true)
+***Figure 16***
+
+
+
+
+
+#### Step 7: Step 13
+
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/cut_container_top.png?raw=true)
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/two_cuts_container_top.png?raw=true)
+***Figure 17***
+
