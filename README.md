@@ -141,7 +141,7 @@ Pass the vinyl tubing attached to the rain shower cap through the tower
 
 
 
-#### Step 7: Step 11: preparing water reservoir
+#### Step 11: preparing water reservoir
 
 Hang the towers from above. I used a container with a lid as the water reservoir. I painted the container with an initial coat of brown (any dark color would work) to prevent light from entering the reservoir and then a second coat with white to prevent overheating when used outdoors. You need to make 2 holes in the lid for the PVC pipes to pass through to the reservoir (see Figure 17). Place the water reservoir under the towers and place the water pump.  
 .
@@ -154,7 +154,7 @@ Hang the towers from above. I used a container with a lid as the water reservoir
 
 
 
-#### Step 7: Step 12: connecting water pump to tower tubes
+#### Step 12: connecting water pump to tower tubes
 
 Connect the T joiner attached to the water pump to the vinyl tubing that was passed through the towers.
 
@@ -168,7 +168,7 @@ Connect the T joiner attached to the water pump to the vinyl tubing that was pas
 
 
 
-#### Step 7: Step 13
+#### Step 13
 
 
 
@@ -182,4 +182,42 @@ You should have something like this: you should not be able to see the vinyl tub
 
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/complete_indoor.png?raw=true)
 ***Figure 18***
+
+
+
+
+### Monitoring 
+I divided the monitoring of the hydroponics into two parts
+
+* Monitoring the solution (what is in the reservoir) 
+
+* Monitoring the environment around the hydroponics 
+
+
+Monitoring the solution:
+>I used two probes:
+  >> 1- pH meter - to determine and alter the pH based on the plant you are growing
+
+  >> 2- EC/TDS (Electrical Conductivity/Total Dissolved Solids) meter- to determine and alter how much food you have in your solution 
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/ph_ec.png?raw=true)
+***Figure 19***
+
+Monitoring the environment around the hydroponics 
+I kept track of 3 values remotely using a RPi and a simple free iot application called cayenne. The sensors used to collect those 3 values are:
+* DHT11 - Digital Temperature Humidity Sensor - to keep track of  the temperature  and humidity in the environment 
+* DS18B20 - Water Thermometer - placed in the reservoir solution to keep track of the temperature of the solution
+  
+
+#### Step 14
+
+Raspberry pi + breadboard + sensors
+Using double sided tape, the DHT11 sensor was mounted to a wall close to the hydroponic towers.
+Since the DS18B20 sensor needs to be in the reservoir water, I added extra wire to the sensor to extend the reach of the sensor
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/RPI_and_sensors.png?raw=true)
+***Figure 20***
+> Cayenne - mydevices.com
+> Drag and drop ioT
 
