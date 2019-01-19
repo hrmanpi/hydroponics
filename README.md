@@ -184,7 +184,20 @@ You should have something like this: you should not be able to see the vinyl tub
 ***Figure 18***
 
 
+#### Step 14
 
+
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/rockwool_seeding.png?raw=true)
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/rockwool_clay_netpot.png?raw=true)
+***Figure 18***
+
+
+
+a week later ... 
+
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/germinated_seed_hydroponics.png?raw=true)
+***Figure 19***
 
 ### Monitoring 
 I divided the monitoring of the hydroponics into two parts
@@ -201,7 +214,7 @@ Monitoring the solution:
   >> 2- EC/TDS (Electrical Conductivity/Total Dissolved Solids) meter- to determine and alter how much food you have in your solution 
 
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/ph_ec.png?raw=true)
-***Figure 19***
+***Figure 20***
 
 Monitoring the environment around the hydroponics 
 I kept track of 3 values remotely using a RPi and a simple free iot application called cayenne. The sensors used to collect those 3 values are:
@@ -209,7 +222,7 @@ I kept track of 3 values remotely using a RPi and a simple free iot application 
 * DS18B20 - Water Thermometer - placed in the reservoir solution to keep track of the temperature of the solution
   
 
-#### Step 14
+#### Step 15
 
 Raspberry pi + breadboard + sensors
 Using double sided tape, the DHT11 sensor was mounted to a wall close to the hydroponic towers.
@@ -217,7 +230,7 @@ Since the DS18B20 sensor needs to be in the reservoir water, I added extra wire 
 
 
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/RPI_and_sensors.png?raw=true)
-***Figure 20***
+***Figure 21***
 > Cayenne - mydevices.com
 > Drag and drop ioT
 
@@ -231,7 +244,7 @@ Sample nutrient deficiency images
 
 
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/nutrient-deficiencies.jpg?raw=true)
-***Figure 21***
+***Figure 22***
 source: Epic Gardening
 
 
@@ -242,7 +255,7 @@ Sample root images of hairy and not hairy roots:
 
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/hairy_root.jpg?raw=true)
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/non_hairy_root.jpg?raw=true)
-***Figure 22***
+***Figure 23***
 > Source: Erdem Erdemir and Timothy Darrah
 
 
