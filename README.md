@@ -217,6 +217,8 @@ Since the DS18B20 sensor needs to be in the reservoir water, I added extra wire 
 
 
 ![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/RPI_and_sensors.png?raw=true)
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/hydroponics_automation?raw=true)
+![hydroponics main image](https://github.com/hrmanpi/hydroponics/blob/hrmanpi-hydroponics2/images/cayenne.png?raw=true)
 ***Figure 20***
 > Cayenne - mydevices.com
 > Drag and drop ioT
